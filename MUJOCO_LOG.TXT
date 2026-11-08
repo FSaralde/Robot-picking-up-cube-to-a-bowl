@@ -1,0 +1,16 @@
+WARNING Sun Nov  8 16:17:50 2026: Nan, Inf or huge value in QVEL at DOF 14. The simulation is unstable. Time = 8.6700.
+
+WARNING Sun Nov  8 16:18:31 2026: Nan, Inf or huge value in QVEL at DOF 14. The simulation is unstable. Time = 8.6680.
+
+WARNING Sun Nov  8 16:18:33 2026: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 8.9260.
+
+WARNING Sun Nov  8 16:18:38 2026: Nan, Inf or huge value in QVEL at DOF 14. The simulation is unstable. Time = 6.0840.
+
+WARNING Sun Nov  8 16:18:42 2026: Nan, Inf or huge value in QACC at DOF 17. The simulation is unstable. Time = 8.3100.
+
+WARNING Sun Nov  8 16:18:47 2026: Nan, Inf or huge value in QPOS at DOF 14. The simulation is unstable. Time = 16.7120.
+
+WARNING Sun Nov  8 16:19:03 2026: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 8.0260.
+
+WARNING Sun Nov  8 16:19:11 2026: Nan, Inf or huge value in QVEL at DOF 14. The simulation is unstable. Time = 8.8840.
+
